@@ -4,19 +4,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish9211ram&label=Profile%20views&color=0e75b6&style=flat" alt="manish9211ram" /> </p>
-# 💫 About Me:
-🔭 Building BotForge Technologies – AI chatbots & automation  
-🤝 Open to hackathons & AI collabs  
-🆘 Need help with 3D design & scaling AI tools  
-🌱 Learning FastAPI, OpenCV, Google Cloud  
-💬 Ask me about AI bots & student startups  
-⚡ Fun fact: Learn from mistakes  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit5928&label=Profile%20views&color=0e75b6&style=flat" alt="akshit5928" /> </p>
+ 💫 About Me:
+<br>🔭 Building BotForge Technologies – AI chatbots & automation  
+<br>🤝 Open to hackathons & AI collabs  
+<br>🆘 Need help with 3D design & scaling AI tools  
+<br>🌱 Learning FastAPI, OpenCV, Google Cloud  
+<br>💬 Ask me about AI bots & student startups  
+<br>⚡ Fun fact: Learn from mistakes  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshit_jainn1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitjainofficial/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitj5928@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshit_jainn1)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitjainofficial/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitj5928@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
